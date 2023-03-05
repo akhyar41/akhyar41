@@ -4,4 +4,3 @@
 ### About Me
 - 👜 Currently working at Office
 - ❤️ Integrate some services
-- Bit lazy
