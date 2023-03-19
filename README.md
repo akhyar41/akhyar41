@@ -4,4 +4,4 @@
 ### About Me
 - 👜 Currently working at Office
 - ❤️ Integrate some services
-- migrate from gitlab
+- migrating from gitlab
