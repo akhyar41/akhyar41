@@ -1,5 +1,5 @@
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akhyar41&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akhyar41&theme=dark" alt="akhyar41" />
 
 ### About Me
 - 👜 Currently working at Office
