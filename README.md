@@ -7,6 +7,6 @@
 - migrating from gitlab
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/akhyar41/Akhyar41/output/github-snake-dark.svg"
+    <img src="https://raw.githubusercontent.com/akhyar41/akhyar41/output/github-snake-dark.svg"
          alt="Animation">
 </div>
